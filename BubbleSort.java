@@ -46,14 +46,13 @@ class Main {
             array[j + 1] = temp;
           }
         }
-
   }
 
   // driver code
   public static void main(String args[]) {
 
     // create an array
-    int[] data = { -2, 45, 0, 11, -9 };
+    int[] data = {-2, 45, 0, 11, -9};
 
     // create an object of Main class
     Main bs = new Main();
