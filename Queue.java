@@ -1,6 +1,6 @@
 // Java program for array
 // implementation of queue
-
+import util.*;
 // A class to represent a queue
 class Queue {
   int front, rear, size;
