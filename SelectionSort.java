@@ -30,7 +30,7 @@ class SelectionSort {
   // Driver code to test above
   public static void main(String args[]) {
     SelectionSort ob = new SelectionSort();
-    int arr[] = {64, 25, 12, 22, 11,45,89,76};
+    int arr[] = {64, 25, 12, 22, 11,45,89,76,86};
      System.out.println("Original array");
     ob.sort(arr);
     System.out.println("Sorted array");
