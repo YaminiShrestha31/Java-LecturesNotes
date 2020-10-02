@@ -5,7 +5,7 @@ import java.lang.*;
 import java.util.*;
 
 class one {
-  public void print_geek() { System.out.println("Geeks"); }
+  public void print_geek() { System.out.println("Madam"); }
 }
 
 class two extends one {
